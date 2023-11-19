@@ -2,7 +2,7 @@
 - 👀 I’m interested in hellen
 - 🌱 I’m currently learning in New zeland
 - 💞️ I’m looking to collaborate on tw
-- 📫 How to reach me via frendtic or X or ins
+- 📫 How to reach me via frendtic or friendpet or ins
 
 <!---
 huang26830/huang26830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
